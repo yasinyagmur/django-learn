@@ -12,6 +12,8 @@ python3 -m venv env
 # ACTIVATING ENVIRONMENT
 # windows
 .\env\Scripts\activate
+
+source env/Scripts/Activate
 # linux / Mac OS
 source env/bin/activate
 ​
