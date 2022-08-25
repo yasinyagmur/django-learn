@@ -1,0 +1,24 @@
+    1  pwd
+    2  dır
+    3  ls
+    4  cd ..
+    5  cd ..
+    6  cd ..
+    7  cd ..
+    8  cd ..
+    9  pwd
+   10  clear
+   11* source "c:/Users/90507/Desktop/IT/1-Full Stack/2-Back-End/Django-learn/004_Forms_Media_Bootsrap/env/Scripts/activate
+   12  python manage.py migrate
+   13  py manage.py startapp student
+   14  python manage.py startapp student
+   15  pip install pillow
+   16  pip freeze > requirements.txt
+   17  py manage.py makemigrations
+   18  python manage.py makemigrations
+   19  python manage.py migrate
+   20  python manage.py createsuperuser
+   21  pip freeze > requirements.txt
+   22  python manage.py makemigrations
+   23  python manage.py migrate
+   24  history > history.txt
