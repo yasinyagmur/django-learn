@@ -1,6 +1,5 @@
 {% extends "student_register/base.html" %} {% load crispy_forms_tags %} {% block
 content %}
-
 <form action="" method="post" autocomplete="off">
   {% csrf_token %} {{form.fullname|as_crispy_field}}
   {{form.mobile|as_crispy_field}} {{form.email|as_crispy_field}}
@@ -25,5 +24,4 @@ content %}
     </div>
   </div>
 </form>
-
 {% endblock content %}
