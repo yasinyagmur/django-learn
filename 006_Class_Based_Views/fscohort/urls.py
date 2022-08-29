@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import home,student_list, student_add, student_detail, student_update,student_delete
+# from .views import home,student_list, student_add, student_detail, student_update,student_delete
 from .views import HomeView, StudentListView,StudentDetailView,StudentCreateView,StudentUpdateView,StudentDeleteView
 from django.views.generic import TemplateView
 
