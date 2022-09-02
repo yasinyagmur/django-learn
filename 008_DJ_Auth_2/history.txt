@@ -1,0 +1,20 @@
+
+   12  python -m venv env
+   13  source env/Scripts/activate
+   14  pip install -r requirements.txt
+   15  py manage.py startapp users
+   16  python manage.py startapp users
+   17  python manage.py startapp users
+   18  python manage.py startapp user
+   19  pip install django
+   20  django-admin startproject main .
+   21  python manage.py runserver
+   22  python manage.py makemigrations
+   23  python manage.py migrate
+   24  python manage.py createsuperuser
+   25  python manage.py runserver
+   26  python manage.py migrate
+   27  python manage.py makemigrations
+   28  python manage.py migrate
+   29  python manage.py runserver
+   30  history > history.txt
